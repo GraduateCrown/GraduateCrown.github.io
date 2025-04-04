@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "例子"
+title: "三大变换"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-**泰山学院**
-
-
-2022
-
-物理与电子工程学院
+$$
+X(j\omega)=\int_{-\infty}^{\infty}x(t)e^{-j\omega t}dt
+$$$$
+X(s)=\int_{-\infty}^{\infty}x(t)e^{-st}dt
+$$$$
+X(z)=\sum_{n = -\infty}^{\infty}x[n]z^{-n}
+$$
