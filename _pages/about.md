@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
 <html>
     <head>
         <title>这个是标题</title>
