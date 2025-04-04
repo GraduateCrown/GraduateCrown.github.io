@@ -11,11 +11,13 @@ redirect_from:
 $$
 X(j\omega)=\int_{-\infty}^{\infty}x(t)e^{-j\omega t}dt
 $$
+
 ---
 
 $$
 X(s)=\int_{-\infty}^{\infty}x(t)e^{-st}dt
 $$
+
 ---
 
 $$
